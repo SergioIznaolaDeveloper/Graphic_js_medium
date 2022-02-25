@@ -1,2 +1,2 @@
 # Graphic_js_medium
-Implementando Wewather api con Chart.js
+Implementando Weather api con Chart.js
