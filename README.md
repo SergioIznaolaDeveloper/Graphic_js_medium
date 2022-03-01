@@ -1,6 +1,7 @@
 # Graphic_js_medium
 Implementando Weather api con Chart.js
 
+https://sergioiznaoladeveloper.github.io/Graphic_js_medium/
 
 Ejercicio Gráficas - weather API:
 - Usar OpenWeather API (hay que registrarse y escoger la API correcta): https://openweathermap.org/api
